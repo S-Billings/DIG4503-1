@@ -1,0 +1,7 @@
+.body {
+    display: flex;
+	flex-direction: column;
+    justify-content: center;
+    background: #00AEDB;
+    padding: 5vh;
+}
