@@ -4811,7 +4811,15 @@ var Home = function Home() {
       lineNumber: 12,
       columnNumber: 15
     }
-  }, "Example"))));
+  }, "Example")), __jsx("img", {
+    src: "zeit.svg",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14,
+      columnNumber: 11
+    }
+  })));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);
