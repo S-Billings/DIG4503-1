@@ -4797,7 +4797,7 @@ var Home = function Home() {
       columnNumber: 7
     }
   }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    href: "/example",
+    href: "index",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
