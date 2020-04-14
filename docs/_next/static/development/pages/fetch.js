@@ -341,7 +341,7 @@ var FetchExample = /*#__PURE__*/function (_React$Component) {
 
 /***/ }),
 
-/***/ 4:
+/***/ 2:
 /*!**********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Ffetch&absolutePagePath=C%3A%5CUsers%5Cdanie%5CDocuments%5CDIG4503%5Cnextdemo%5Cpages%5Cfetch.js ***!
   \**********************************************************************************************************************************************/
@@ -364,5 +364,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=fetch.js.map
